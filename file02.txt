@@ -1,3 +1,5 @@
 
 
-Creating a new file to test command git add -all
+Creating a new file to test command git add --all
+
+Just made a correction.
